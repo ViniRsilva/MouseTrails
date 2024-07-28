@@ -1,0 +1,17 @@
+{
+  "name": "cursor-trailer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@fastify/static": "^7.0.4",
+    "fastify": "^4.28.1"
+  },
+  "type": "module"
+}

@@ -1,0 +1,12 @@
+.circle {
+  height: 24px;
+  width: 24px;
+  border-radius: 24px;
+  /* background-color: rgba(29, 28, 28, 0.199); */
+  background-color: rgb(0, 0, 0);
+
+  position: absolute;
+  border: 1px solid black;
+  top: 0;
+  left: 0;
+}
