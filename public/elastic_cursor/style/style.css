@@ -1,0 +1,23 @@
+* {
+  margin: none;
+  padding: none;
+  box-sizing: border-box;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+  background-color: #121212;
+  overflow: hidden;
+}
+
+.circle {
+  position: fixed;
+  height: 40px;
+  width: 40px;
+  border-radius: 100%;
+  border: 1px solid white;
+  pointer-events: none;
+  top: -20px;
+  left: -20px;
+}
